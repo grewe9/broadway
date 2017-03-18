@@ -30,12 +30,12 @@ h3 {
   font-weight: bold;
 }
 
-h4 {
+p {
   font-size: 14px;
   font-weight: normal;
 }
 
-.about > h3 {
+.about > h3:first-child {
   color: white;
   background-image: url("C:/cygwin64/home/Matthew/projects/broadway/resources/images/the-flatiron-building.png");
   background-repeat: no-repeat;
