@@ -41,3 +41,13 @@ p {
   background-repeat: no-repeat;
   background-position: center;
 }
+
+footer {
+  text-align: left;
+  background-color: dimgray;
+}
+
+span {
+  font-size: 11px;
+  color: white;
+}
