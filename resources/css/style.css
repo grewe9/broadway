@@ -3,7 +3,7 @@ body {
   font-family: Helvetica;
 }
 
-header {
+.bgimg {
   background-image: url("C:/cygwin64/home/Matthew/projects/broadway/resources/images/the-flatiron-building.png");
   background-repeat: no-repeat;
   background-position: center;
@@ -37,9 +37,6 @@ p {
 
 .about > h3:first-child {
   color: white;
-  background-image: url("C:/cygwin64/home/Matthew/projects/broadway/resources/images/the-flatiron-building.png");
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
 footer {
