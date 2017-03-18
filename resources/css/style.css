@@ -5,4 +5,17 @@ body {
 
 header {
   background-image: url("C:/cygwin64/home/Matthew/projects/broadway/resources/images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+a {
+  font-size: 18px;
+  color: white;
 }
